@@ -6,6 +6,9 @@ public class Day_01 {
 		
 		System.out.println("day 1");
 		
+		System.out.println("day 2");
+		
+		
 	}
 
 }
