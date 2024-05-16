@@ -8,6 +8,12 @@ public class Day_01 {
 		
 		System.out.println("day 2");
 		
+        System.out.println("day 3");
+		
+		System.out.println("day 4");
+		
+		
+		
 		
 	}
 
